@@ -1,7 +1,7 @@
 # vue-index-list  使用demo
 
 >使用了自己封装的组件[vue-index-list](https://www.npmjs.com/package/vue-index-list)
-
+![demo_git](https://github.com/LoveIsReal/vue-index-list/blob/master/indexListDemo.gif)
 ## Build Setup
 
 ``` bash

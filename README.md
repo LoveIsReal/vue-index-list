@@ -1,6 +1,6 @@
-# test
+# vue-index-list  使用demo
 
-> A Vue.js project
+>使用了自己封装的组件[vue-index-list](https://www.npmjs.com/package/vue-index-list)
 
 ## Build Setup
 
